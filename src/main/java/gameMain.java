@@ -1,6 +1,6 @@
 
 public class gameMain {
-    private gameWindow frame;
+    private gameWindow gameFrame;
 
     public static void main(String[] args) {
 
