@@ -7,9 +7,8 @@
     <groupId>Serendipity</groupId>
     <artifactId>Game</artifactId>
     <version>v0</version>
-<dependencies>
+    <dependencies>
 
-
-</dependencies>
+    </dependencies>
 
 </project>
